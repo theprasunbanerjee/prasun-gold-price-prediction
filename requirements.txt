@@ -1,0 +1,7 @@
+streamlit
+pandas
+yfinance
+xgboost
+scikit-learn
+babel
+num2words
